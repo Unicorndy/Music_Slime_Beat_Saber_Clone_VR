@@ -7,3 +7,4 @@ Game Mechanic based on tutorial from https://www.youtube.com/watch?v=gh4k0Q1Pl7E
 Audio Visualization based on tutorial from https://www.youtube.com/watch?v=4Av788P9stk (Audio Visualization - Unity/C# Tutorial [Part 1 - FFT/Spectrum Theory])
 
 You can view the gameplay here https://www.youtube.com/watch?v=eiCgn92ClfY&t=1s
+![alt text](https://github.com/Unicorndy/Music_Slime_Beat_Saber_Clone_VR/blob/master/Slime_music_beat_3sec.gif)
