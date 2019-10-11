@@ -1,4 +1,4 @@
-# Music_Slime_Beat_Saber_Clone_VR
+# Music Slime Beat Saber Clone VR
 A clone Oculus VR Beat Saber Game for my personal project. (Title: Slime Music Beat)
 
 Just to give a brief introduction about myself, I am a beginner who started learning Unity 4 months ago. By gathering all the free online tools I found online, I am able to create this game within one day. Listed below are the youtube videos I followed to create the majority of the game. The rest of the scripts, animations and etc are just based on my 4 months learning experience to glue them all together.
