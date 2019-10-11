@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: d231d17810cb36345aeef54785bb7472
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_Left_jnt
+    100002: Arm_Right_jnt
+    100004: Chest_jnt
+    100006: Foot_Left_jnt
+    100008: Foot_Right_jnt
+    100010: Forearm_Left_jnt
+    100012: Forearm_Right_jnt
+    100014: Hand_Left_jnt
+    100016: Hand_Right_jnt
+    100018: Head_jnt
+    100020: Hips_jnt
+    100022: LowerLeg_Left_jnt
+    100024: LowerLeg_Right_jnt
+    100026: mixamo:CH_BusinessMan
+    100028: mixamo:CH_FireFighter
+    100030: mixamo:CH_Hobo
+    100032: mixamo:CH_Pimp
+    100034: mixamo:CH_Policeman
+    100036: mixamo:CH_Prostitute
+    100038: mixamo:CH_Punk
+    100040: mixamo:CH_RiotCop
+    100042: mixamo:CH_Roadworker
+    100044: mixamo:CH_Robber
+    100046: mixamo:CH_Sheriff
+    100048: mixamo:CH_StreetMan
+    100050: mixamo:CH_Trucker
+    100052: mixamo:CH_Woman
+    100054: Neck_jnt
+    100056: Shoulder_Left_jnt
+    100058: Shoulder_Right_jnt
+    100060: //RootNode
+    100062: Spine_jnt
+    100064: Spine_jnt1
+    100066: Toe_Left_jnt
+    100068: Toe_Right_jnt
+    100070: UpperLeg_Left_jnt
+    100072: UpperLeg_Right_jnt
+    400000: Arm_Left_jnt
+    400002: Arm_Right_jnt
+    400004: Chest_jnt
+    400006: Foot_Left_jnt
+    400008: Foot_Right_jnt
+    400010: Forearm_Left_jnt
+    400012: Forearm_Right_jnt
+    400014: Hand_Left_jnt
+    400016: Hand_Right_jnt
+    400018: Head_jnt
+    400020: Hips_jnt
+    400022: LowerLeg_Left_jnt
+    400024: LowerLeg_Right_jnt
+    400026: mixamo:CH_BusinessMan
+    400028: mixamo:CH_FireFighter
+    400030: mixamo:CH_Hobo
+    400032: mixamo:CH_Pimp
+    400034: mixamo:CH_Policeman
+    400036: mixamo:CH_Prostitute
+    400038: mixamo:CH_Punk
+    400040: mixamo:CH_RiotCop
+    400042: mixamo:CH_Roadworker
+    400044: mixamo:CH_Robber
+    400046: mixamo:CH_Sheriff
+    400048: mixamo:CH_StreetMan
+    400050: mixamo:CH_Trucker
+    400052: mixamo:CH_Woman
+    400054: Neck_jnt
+    400056: Shoulder_Left_jnt
+    400058: Shoulder_Right_jnt
+    400060: //RootNode
+    400062: Spine_jnt
+    400064: Spine_jnt1
+    400066: Toe_Left_jnt
+    400068: Toe_Right_jnt
+    400070: UpperLeg_Left_jnt
+    400072: UpperLeg_Right_jnt
+    2300000: mixamo:CH_BusinessMan
+    2300002: mixamo:CH_FireFighter
+    2300004: mixamo:CH_Hobo
+    2300006: mixamo:CH_Pimp
+    2300008: mixamo:CH_Policeman
+    2300010: mixamo:CH_Prostitute
+    2300012: mixamo:CH_Punk
+    2300014: mixamo:CH_RiotCop
+    2300016: mixamo:CH_Roadworker
+    2300018: mixamo:CH_Robber
+    2300020: mixamo:CH_Sheriff
+    2300022: mixamo:CH_StreetMan
+    2300024: mixamo:CH_Trucker
+    2300026: mixamo:CH_Woman
+    3300000: mixamo:CH_BusinessMan
+    3300002: mixamo:CH_FireFighter
+    3300004: mixamo:CH_Hobo
+    3300006: mixamo:CH_Pimp
+    3300008: mixamo:CH_Policeman
+    3300010: mixamo:CH_Prostitute
+    3300012: mixamo:CH_Punk
+    3300014: mixamo:CH_RiotCop
+    3300016: mixamo:CH_Roadworker
+    3300018: mixamo:CH_Robber
+    3300020: mixamo:CH_Sheriff
+    3300022: mixamo:CH_StreetMan
+    3300024: mixamo:CH_Trucker
+    3300026: mixamo:CH_Woman
+    4300000: mixamo:CH_Roadworker
+    4300002: mixamo:CH_Hobo
+    4300004: mixamo:CH_Prostitute
+    4300006: mixamo:CH_BusinessMan
+    4300008: mixamo:CH_Robber
+    4300010: mixamo:CH_Woman
+    4300012: mixamo:CH_Pimp
+    4300014: mixamo:CH_Punk
+    4300016: mixamo:CH_Sheriff
+    4300018: mixamo:CH_FireFighter
+    4300020: mixamo:CH_Trucker
+    4300022: mixamo:CH_StreetMan
+    4300024: mixamo:CH_Policeman
+    4300026: mixamo:CH_RiotCop
+    7400000: mixamo.com
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
