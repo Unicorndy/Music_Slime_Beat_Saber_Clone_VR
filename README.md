@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR.svg)](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR)
-
 # Music Slime Beat Saber Clone VR
 A clone Oculus VR Beat Saber Game for my personal project. (Title: Slime Music Beat)
 
@@ -10,3 +8,5 @@ Audio Visualization based on tutorial from https://www.youtube.com/watch?v=4Av78
 
 You can view the gameplay here https://www.youtube.com/watch?v=eiCgn92ClfY&t=1s
 ![alt text](https://github.com/Unicorndy/Music_Slime_Beat_Saber_Clone_VR/blob/master/Slime_music_beat_3sec.gif)
+
+[![HitCount](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR.svg)](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR)
