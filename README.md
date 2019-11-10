@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR.svg)](http://hits.dwyl.io/Unicorndy/https://githubcom/Unicorndy/Music_Slime_Beat_Saber_Clone_VR)
+
 # Music Slime Beat Saber Clone VR
 A clone Oculus VR Beat Saber Game for my personal project. (Title: Slime Music Beat)
 
